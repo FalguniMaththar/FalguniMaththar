@@ -18,17 +18,17 @@ I'm actively learning and building projects in:
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp &theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
 </p>
 
 ### Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django &theme=dark" />
+  <img src="https://skillicons.dev/icons?i=django&theme=dark" />
 </p>
 
 ### Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql &theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
