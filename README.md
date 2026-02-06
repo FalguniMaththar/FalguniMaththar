@@ -4,7 +4,16 @@
     Python • SQL • Power BI • Machine Learning
   </i>
 </p>
----
+
+## 🚀 About Me
+
+Hi, I’m **Falguni**, an MCA student passionate about turning **data into insights**.
+
+- 📊 Interested in **Data Analysis, ML & AI**
+- 🧠 Strong foundation in **Python, SQL, Statistics**
+- 🛠️ Hands-on with **real academic & self projects**
+- 🎯 Goal: **Data Analyst/ AI Research roles**
+- 🧑‍💻 Current : Data Science Intern
 
 ## 💡 Tech Stack
 
