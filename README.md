@@ -134,7 +134,7 @@ Hi, I’m <b>Falguni</b>, an MCA student passionate about turning <b>data into i
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [LINKEDIN](https://www.linkedin.com/in/falguni-maththar-95a266325/)
+- 💼 LinkedIn: [Let's Connect](https://www.linkedin.com/in/falguni-maththar-95a266325/)
 <!-- - 📄 Resume: YOUR_RESUME_LINK -->
 - 📧 Email: falgunimaththar@gmail.com
 
