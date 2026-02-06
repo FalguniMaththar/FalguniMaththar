@@ -19,8 +19,8 @@ Hi, I’m <b>Falguni</b>, an MCA student passionate about turning <b>data into i
 - 📊 Interested in Data Analysis, Machine Learning & AI  
 - 🧠 Strong foundation in Python, SQL & Statistics  
 - 🛠️ Hands-on experience with academic & self projects  
-- 🎯 Goal: Data Analyst / ML Intern / AI Research roles  
-
+- 🎯 Goal: Data Analyst / ML Intern / AI Research roles
+- 🆕 Current: Data Science Intern
 ---
 
 ## 💡 Tech Stack
