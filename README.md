@@ -1,12 +1,9 @@
-<h1 align="center">
-  Hey there! I'm Falguni 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</h1>
-
 <p align="center">
-  <i>🌐 AI Research | 🎓 MCA Student | 🤖 ML & AI Enthusiast</i>
+  <i>
+    🎓 MCA Student | 📊 Aspiring Data Analyst | 🤖 ML & AI Enthusiast <br>
+    Python • SQL • Power BI • Machine Learning
+  </i>
 </p>
-
 ---
 
 ## 💡 Tech Stack
