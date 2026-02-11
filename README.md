@@ -5,7 +5,7 @@
 
 <p align="center">
   <i>
-    🎓 MCA Student | 📊 Aspiring Data Analyst | 🤖 ML & AI Enthusiast <br>
+    📊 Aspiring Data Analyst | 🤖 ML & AI Enthusiast <br>
     Python • SQL • Power BI • Machine Learning
   </i>
 </p>
@@ -81,7 +81,7 @@ Hi, I’m <b>Falguni</b>, an MCA student passionate about turning <b>data into i
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalguniMaththar&layout=pie&theme=dark&langs_count=15&hide=php,html,css,javascript&token=YOUR_GITHUB_TOKEN_HERE"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalguniMaththar&layout=pie&theme=dark&langs_count=15&hide=php,html,css,javascript"
     alt="Top Languages"
   />
 </p>
