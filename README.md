@@ -76,10 +76,14 @@ Hi, I’m <b>Falguni</b>, an MCA student passionate about turning <b>data into i
 </p>
 
 ---
-
 ## 💻 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalguniMaththar&layout=compact&theme=dark&hide=html,css,php,javascript" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalguniMaththar&layout=pie&theme=dark&langs_count=15&hide=php,html,css,javascript&token=YOUR_GITHUB_TOKEN_HERE"
+    alt="Top Languages"
+  />
+</p>
 ---
 
 ## 🚀 Featured Projects
