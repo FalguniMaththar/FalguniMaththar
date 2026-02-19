@@ -140,7 +140,8 @@ Hi, I’m <b>Falguni</b>, an MCA student passionate about turning <b>data into i
 
 ## ✨ Fun Quote
 > Every bug is a <b>lesson</b>, not a failure. 👾
-> Head Down and Work
+ 
+> Head Down, Keep Working
 ---
 
 <p align="center">
