@@ -139,11 +139,8 @@ Hi, I’m <b>Falguni</b>, an MCA student passionate about turning <b>data into i
 ---
 
 ## ✨ Fun Quote
-
-> “First, solve the problem. Then, write the code.” — John Johnson  
 > Every bug is a <b>lesson</b>, not a failure. 👾
-> "If you're naturally kind, you attract a lot of people you don't like."😁 - William Feather🪶
-
+> Head Down and Work
 ---
 
 <p align="center">
